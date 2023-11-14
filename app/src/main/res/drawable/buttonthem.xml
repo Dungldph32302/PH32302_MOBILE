@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Drawable đầu tiên (nền tròn) -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="500dp"></corners>
+            <solid android:color="#52D1CA"></solid>
+        </shape>
+    </item>
+    <!-- Drawable thứ hai (biểu tượng "Add") -->
+    <item
+        android:drawable="@drawable/baseline_add_24"
+        android:gravity="center" />
+</layer-list>

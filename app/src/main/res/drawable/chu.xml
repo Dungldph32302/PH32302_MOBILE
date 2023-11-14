@@ -1,0 +1,7 @@
+<style xmlns:tools="http://schemas.android.com/tools"
+    name="BottomNavigationView.TextAppearance.Active"
+    tools:ignore="MissingPrefix">
+    <item name="android:textSize">10sp</item> <!-- Đặt kích thước văn bản nhỏ hơn -->
+    <item name="android:lineSpacingExtra">4dp</item> <!-- Đặt khoảng cách dòng -->
+</style>
+
